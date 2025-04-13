@@ -2,7 +2,7 @@
 
 **_An open protocol enabling communication and interoperability between opaque agentic applications._**
 
-<!-- TOC -->
+<!-- TOC -->记得记得京东
 
 - [Agent2Agent Protocol A2A](#agent2agent-protocol-a2a)
     - [Getting Started](#getting-started)
